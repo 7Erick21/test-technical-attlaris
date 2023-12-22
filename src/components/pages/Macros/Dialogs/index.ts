@@ -1,0 +1,1 @@
+export { MDialog } from './Dialog'
