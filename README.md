@@ -1,30 +1,22 @@
-# React + TypeScript + Vite
+# Prueba Tecnica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clonar repositorio copiando la ruta de  gitHub 
 
-Currently, two official plugins are available:
+git clone "LA RUTA"
+![image](https://github.com/7Erick21/test-technical-attlaris/assets/122493655/0b0107d6-8c95-482b-8ebd-590a76872447)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para instala la dependencias e librerias que necesita el proyecto en este caso lo trabaje con yarn gestor de archivos mas rapido que npm 
+codigo en tu consola: yarn install
 
-## Expanding the ESLint configuration
+asi se instalara las dependencias e librerias, luego si deseas ejecutar localmente puedes poner:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+codigo en tu consola: yarn dev
 
-- Configure the top-level `parserOptions` property like this:
+y en tu navegador cololar "http://localhost:3000/" que ahi se esta ejecutando el proyecto localmente y nada mas yo lo deploye en vecel:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+URL en vercel: [URL EN VERCEL DEL PROYECTO](https://test-technical-attlaris.vercel.app/)
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Disculpa por la maquetacion se que no es la mas perfecta pero mi meta fue cumplir con las funcionabilidades y las instrucciones lo hise lo mas rapido posible por tema de un percanse que tuve y que no me dio el tiempo suficiente 
+
+Hora de Inicio: 9:00 am
+Hora de Fin: 1:30 pm
