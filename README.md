@@ -5,9 +5,9 @@ Clonar repositorio copiando la ruta de  gitHub
 git clone "LA RUTA"
 ![image](https://github.com/7Erick21/test-technical-attlaris/assets/122493655/0b0107d6-8c95-482b-8ebd-590a76872447)
 
-# tener instalado node a la ultima version estable que es la 20
-# tener instalado npm 
-# instalar yarn
+### tener instalado node a la ultima version estable que es la 20
+### tener instalado npm 
+### instalar yarn
 
 
 Para instala la dependencias e librerias que necesita el proyecto en este caso lo trabaje con yarn gestor de archivos mas rapido que npm 
